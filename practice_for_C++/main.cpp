@@ -8,6 +8,8 @@
 #include<iostream>
 using namespace std;
 
+
+//数列の反転
 int main(){
     int N;
     cin >> N;
