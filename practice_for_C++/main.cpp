@@ -9,6 +9,7 @@
 using namespace std;
 
 
+//pull requestの練習
 //数列の反転
 int main(){
     int N;
